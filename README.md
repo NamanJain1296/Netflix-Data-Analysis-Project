@@ -20,7 +20,6 @@ Welcome to the Netflix Data Analysis project! This project explores the extensiv
 
 - Python for data cleaning, manipulation, and analysis.
 - Pandas and NumPy for data processing.
-- Matplotlib and Seaborn for data visualization.
 - Plotly Express for interactive and engaging visualizations.
 - TextBlob for sentiment analysis.
 
